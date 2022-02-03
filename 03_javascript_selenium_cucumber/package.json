@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
+    "bdd": "cucumber-js",
     "test": "jest"
   },
   "keywords": [],
@@ -12,6 +13,7 @@
     "selenium-webdriver": "^4.1.1"
   },
   "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2",
     "@types/selenium-webdriver": "^4.0.17",
     "chromedriver": "^97.0.4",
     "eslint": "^8.8.0",

@@ -7,7 +7,7 @@
 3. Installer selenium avec `npm i selenium-webdriver`
 4. Installer les dependences dev `npm i -D eslint jest jsdoc @types/selenium-webdriver chromedriver eslint-plugin-jest`
 5. Initialiser jest avec `npx jest --init`
-6. Initialiser eslint avec `npx eslint --init`
+6. Initialiser eslint avec `npx eslint --init` et installer l'extension ESLint de VSCode
 7. Créer un fichier `.editorconfig` a la racine du projet
 8. Remplir le fichier `.editorconfig` avec
     ```editorconfig
