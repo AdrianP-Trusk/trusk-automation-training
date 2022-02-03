@@ -12,7 +12,7 @@ let webdriver
 
 describe("Given I am on Google", () => {
     beforeAll(async () => {
-        webdriver = await webUtils.getWebdriver("chrome")
+        webdriver = webUtils.getWebdriver("chrome")
         await webdriver.get("https://www.google.com")
         await webPages.google.search.closeCookiesPopup(webdriver)
     })

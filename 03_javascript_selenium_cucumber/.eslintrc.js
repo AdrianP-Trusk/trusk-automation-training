@@ -13,6 +13,7 @@ module.exports = {
         "ecmaVersion": "latest",
     },
     "plugins": [
+        "cucumber",
         "jest",
     ],
     "rules": {
@@ -23,6 +24,7 @@ module.exports = {
                 "code": 300,
             },
         ],
+        "new-cap": "off",
         "quotes": ["error", "double"],
         "semi": ["error", "never"],
     },

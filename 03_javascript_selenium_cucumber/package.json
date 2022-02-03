@@ -18,6 +18,7 @@
     "chromedriver": "^97.0.4",
     "eslint": "^8.8.0",
     "eslint-config-google": "^0.14.0",
+    "eslint-plugin-cucumber": "^1.4.0",
     "eslint-plugin-jest": "^26.0.0",
     "jest": "^27.4.7",
     "jsdoc": "^3.6.10"
