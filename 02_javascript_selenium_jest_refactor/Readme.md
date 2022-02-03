@@ -1,6 +1,6 @@
 [<-- Automation Training](../Readme.md)
 
-# Selenium JavaScript sample automated Google test
+# Selenium JavaScript sample automated Google test - Refactored
 
 - Clone or download the repository
 - Run `npm install`
