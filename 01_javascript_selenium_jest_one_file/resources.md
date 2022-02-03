@@ -18,3 +18,4 @@ Jest in VSCode:
 Selenium (JavaScript):
 - https://www.selenium.dev/selenium/docs/api/javascript/index.html
 - https://www.npmjs.com/package/@types/selenium-webdriver
+
