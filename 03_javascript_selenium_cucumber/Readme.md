@@ -4,7 +4,7 @@
 
 - Clone or download the repository
 - Run `npm install`
-- Run `npm test`
+- Run `npm run bdd`
 
 # [Project tutorial](tuto.md)
 
