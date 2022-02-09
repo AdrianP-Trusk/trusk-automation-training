@@ -4,7 +4,7 @@ Welcome to your test automation journey !
 
 Before you start using and improving our amazing test framework, we'll guide you through some important steps to introduce you with all the tools and methods we are using and focusing on to make our tests as efficient and easy to write as possible.
 
-## [Step 1: Automate sampe Google Search scenario with Javascript, Jest and Selenium](01_javascript_selenium_jest_one_file/Readme.md)
+## [Step 1: Automate sampe Google Search scenario with Javascript, Jest and Selenium](https://github.com/AdrianP-Trusk/01_javascript_selenium_jest_one_file)
 
 In this first step, you will setup a Node.js project, install and configure some developer tools to improve the developement experience around test automation:
 
