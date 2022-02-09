@@ -15,10 +15,10 @@ In this first step, you will setup a Node.js project, install and configure some
 
 Then you will install Jest and Selenium and write your first test on Google.
 
-## [Step 2: Refactor previous project, start using page object pattern and utility library](https://github.com/AdrianP-Trusk/02_javascript_selenium_jest_refactor/Readme.md)
+## [Step 2: Refactor previous project, start using page object pattern and utility library](https://github.com/AdrianP-Trusk/02_javascript_selenium_jest_refactor)
 
-## [Step 3: Add Cucumber.js to previous project](https://github.com/AdrianP-Trusk/03_javascript_selenium_cucumber/Readme.md)
+## [Step 3: Add Cucumber.js to previous project](https://github.com/AdrianP-Trusk/03_javascript_selenium_cucumber)
 
-## [Step 4: Write your first API test with JavaScript, Jest and Axios](https://github.com/AdrianP-Trusk/04_javascript_axios_jest_one_file/Readme.md)
+## [Step 4: Write your first API test with JavaScript, Jest and Axios](https://github.com/AdrianP-Trusk/04_javascript_axios_jest_one_file)
 
-## [Step 5: Refactor your API test and start creating api requests library](https://github.com/AdrianP-Trusk/05_javascript_axios_jest_refactor/Readme.md)
+## [Step 5: Refactor your API test and start creating api requests library](https://github.com/AdrianP-Trusk/05_javascript_axios_jest_refactor)
