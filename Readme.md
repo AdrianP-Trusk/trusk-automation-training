@@ -22,3 +22,5 @@ Then you will install Jest and Selenium and write your first test on Google.
 ## [Step 4: Write your first API test with JavaScript, Jest and Axios](https://github.com/AdrianP-Trusk/04_javascript_axios_jest_one_file)
 
 ## [Step 5: Refactor your API test and start creating api requests library](https://github.com/AdrianP-Trusk/05_javascript_axios_jest_refactor)
+
+## [Step 6: API test in Cucumber](https://github.com/AdrianP-Trusk/06_javascript_axios_cucumber)
